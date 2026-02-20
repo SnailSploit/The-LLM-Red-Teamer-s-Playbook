@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" alt="LLM Red Teaming Guide" width="800"/>
+  <img
+    src="https://raw.githubusercontent.com/SnailSploit/The-LLM-Red-Teamer-s-Playbook/main/assets/banner.png"
+    alt="LLM Red Teaming Guide"
+    width="800"
+  />
 </p>
-
-<h1 align="center">The LLM Red Teamer's Playbook</h1>
 
 <p align="center">
   <strong>A diagnostic methodology for bypassing LLM defense layers — from input filters to persistent memory exploitation.</strong>
@@ -13,6 +15,8 @@
   <a href="https://snailsploit.com"><img src="https://img.shields.io/badge/Research-SnailSploit-blue" alt="SnailSploit"/></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-green" alt="License"/></a>
 </p>
+
+
 
 ---
 
