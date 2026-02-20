@@ -1,10 +1,6 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SnailSploit/The-LLM-Red-Teamer-s-Playbook/main/assets/banner.png"
-    alt="LLM Red Teaming Guide"
-    width="800"
-  />
-</p> 
+  <img src="assets/Banner.png" alt="LLM Red Teaming Guide" width="800"/>
+</p>
 
 <p align="center">
   <strong>A diagnostic methodology for bypassing LLM defense layers — from input filters to persistent memory exploitation.</strong>
