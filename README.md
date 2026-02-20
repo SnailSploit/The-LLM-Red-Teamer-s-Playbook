@@ -4,7 +4,7 @@
     alt="LLM Red Teaming Guide"
     width="800"
   />
-</p>
+</p> 
 
 <p align="center">
   <strong>A diagnostic methodology for bypassing LLM defense layers — from input filters to persistent memory exploitation.</strong>
