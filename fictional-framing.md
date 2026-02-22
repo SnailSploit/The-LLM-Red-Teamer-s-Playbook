@@ -1,7 +1,7 @@
 # Fictional Framing
 
-> **AATMF v3 ID:** AT-011  
-> **Threat Category:** TC-02 (Jailbreaking)  
+> **AATMF v3 ID:** T3-AT-001
+> **Threat Category:** T3 (Reasoning & Constraint Exploitation)
 > **Target Layer:** 2 — Model Alignment  
 > **Difficulty:** Low  
 > **Reliability:** Medium — effectiveness varies significantly by model and topic sensitivity
@@ -94,7 +94,7 @@ Context: This is a Node.js/Express API using passport-jwt middleware.
 
 The debugging frame positions the request as fixing/testing rather than attacking. The specificity (technology stack, internal API reference, authorization context) makes the frame believable.
 
-### Example: Functional Equivalence (AT-013)
+### Example: Functional Equivalence (T3-AT-008)
 
 Sometimes you don't need an elaborate frame — you just need to ask for the same capability through a different categorical door.
 
@@ -167,8 +167,8 @@ Each turn is individually reasonable. The depth escalates gradually. The model's
 
 ## References
 
-- [AATMF v3: TC-02 — Jailbreaking](https://github.com/SnailSploit/Aversarial-AI-Threat-Modeling-Framwork)
-- Related: [Functional Equivalence (AT-013)](functional-equivalence.md), [Euphemism Exploitation (AT-014)](euphemism-exploitation.md), [Hypothetical Distancing (AT-015)](hypothetical-distancing.md)
+- [AATMF v3: T3 — Reasoning & Constraint Exploitation](https://github.com/SnailSploit/AATMF-Adversarial-AI-Threat-Modeling-Framework)
+- Related: [Functional Equivalence (T3-AT-008)](functional-equivalence.md), [Euphemism Exploitation (T2-AT-001)](euphemism-exploitation.md), [Hypothetical Distancing (T3-AT-017)](hypothetical-distancing.md)
 - The Inception Problem: [Why jailbreaking inside injection is the compound threat](https://snailsploit.com/ai-security/jailbreaking/inception-problem/)
 
 ---
