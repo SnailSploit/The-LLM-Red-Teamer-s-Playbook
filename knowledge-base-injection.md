@@ -1,7 +1,7 @@
 # Knowledge Base Injection
 
-> **AATMF v3 ID:** AT-021  
-> **Threat Category:** TC-03 (RAG Poisoning)  
+> **AATMF v3 ID:** T12-AT-004
+> **Threat Category:** T12 (RAG & Knowledge Base Manipulation)
 > **Target Layer:** 5 — Agentic Trust Boundaries  
 > **Difficulty:** Medium  
 > **Reliability:** High — most RAG implementations lack content validation on retrieved documents
@@ -151,8 +151,8 @@ This creates a time bomb — the document sits harmlessly in the index until the
 
 ## References
 
-- [AATMF v3: TC-03 — RAG Poisoning](https://github.com/SnailSploit/Aversarial-AI-Threat-Modeling-Framwork)
-- Related: [Retrieval Manipulation (AT-023)](retrieval-manipulation.md), [Context Window Poisoning (AT-041)](context-window-poisoning.md)
+- [AATMF v3: T12 — RAG & Knowledge Base Manipulation](https://github.com/SnailSploit/AATMF-Adversarial-AI-Threat-Modeling-Framework)
+- Related: [Retrieval Manipulation (T12-AT-002)](retrieval-manipulation.md), [Context Window Poisoning (T4-AT-001)](context-window-poisoning.md)
 - Case study: [Persistent RAG Backdoor](../case-studies/persistent-rag-backdoor.md)
 
 ---
